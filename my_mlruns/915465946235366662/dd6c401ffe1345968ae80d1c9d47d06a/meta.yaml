@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\NICOLE\ANALITICA_DESCRIPTIVA\PRE-08-mlflow-tracking-local-NicoleVargasOssa\my_mlruns/915465946235366662/dd6c401ffe1345968ae80d1c9d47d06a/artifacts
+end_time: 1748100632211
+entry_point_name: ''
+experiment_id: '915465946235366662'
+lifecycle_stage: active
+run_id: dd6c401ffe1345968ae80d1c9d47d06a
+run_name: knn_dff9d896
+run_uuid: dd6c401ffe1345968ae80d1c9d47d06a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100632091
+status: 3
+tags: []
+user_id: NICOLE

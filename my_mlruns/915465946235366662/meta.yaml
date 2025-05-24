@@ -1,0 +1,6 @@
+artifact_location: file:C:\Users\NICOLE\ANALITICA_DESCRIPTIVA\PRE-08-mlflow-tracking-local-NicoleVargasOssa\my_mlruns/915465946235366662
+creation_time: 1748100231315
+experiment_id: '915465946235366662'
+last_update_time: 1748100231315
+lifecycle_stage: active
+name: wine_quality_experiment
